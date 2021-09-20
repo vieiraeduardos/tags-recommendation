@@ -1,3 +1,10 @@
+# personal configs
+Datasets/Images/*
+Datasets/Images.tar.gz
+Embeddings/*
+Models/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
